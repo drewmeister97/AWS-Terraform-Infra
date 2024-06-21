@@ -1,4 +1,4 @@
-Terraform Infra which consists of ECS Cluster, Fargate, VPC, NAT Gateway, S3 Bucket in the Southeast Asia Region 
+Terraform Infra which consists of ECS Cluster, Fargate, VPC, NAT Gateway, Security Group & S3 Bucket in the Southeast Asia Region 
 
 # AWS Terraform Infrastructure
 
